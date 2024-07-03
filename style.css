@@ -597,7 +597,9 @@ footer>p {
         height: auto;
     }
 
-   
+   .layout > div {
+    width: 180px;
+   }
 
     .layout h1 {
         font-size: 26px;
