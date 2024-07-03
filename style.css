@@ -491,6 +491,10 @@ footer>p {
     max-width: 456px;
 }
 
+.padding2 {
+    padding-right: 40px;
+}
+
 
 @media only screen and (max-width: 950px) {
 
@@ -630,5 +634,6 @@ footer>p {
     .padding {
         padding-left: 80px;
     }
+
     
 }
