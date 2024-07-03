@@ -569,7 +569,7 @@ footer>p {
    }
 
     h1 {
-        text-align: justify;
+        text-align: left;
     }
 
     .cards h1 {
@@ -612,6 +612,23 @@ footer>p {
 
     .frame {
         border-radius: 0;
+    }
+
+    .displayflex {
+        display: flex;
+        align-items: center;
+    }
+
+    .cards > div {
+        height: auto;
+    }
+
+    .displayflex img {
+        margin-right: 20px;
+    }
+
+    .padding {
+        padding-left: 80px;
     }
     
 }
