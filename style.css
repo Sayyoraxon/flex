@@ -564,12 +564,17 @@ footer>p {
         text-align: left;
     }
 
-   
+   .cards {
+    text-align: left;
+   }
 
     h1 {
         text-align: justify;
     }
 
+    .cards h1 {
+        text-align: left;
+    }
 
     p {
         text-align: justify;
